@@ -3,6 +3,7 @@ This repository serves as a comprehensive guide to mastering child tab handling 
 testers can seamlessly navigate through child tabs, ensuring thorough testing coverage across web applications.
 
 **Features:**
+
 **Smooth Iteration: **Explore how to iteratively handle child tabs, enabling efficient navigation and interaction with elements within them.
 **Condition-Based Navigation:** Learn to navigate through specific child tabs based on predetermined conditions, ensuring targeted testing actions.
 **Pre-Test Stability:** Discover strategies to ensure the stability of the testing environment before each test execution, enhancing reliability and consistency in results.
